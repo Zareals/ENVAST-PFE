@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Landing.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Quiz2.unity
+    guid: c6616c4c72f3c3d4ca4a2d7422cc62f3
+  - enabled: 1
+    path: Assets/Scenes/Protect The Base.unity
+    guid: d8d95708681007749bf1fe37a06c747d
+  - enabled: 1
+    path: Assets/Scenes/ARBooks.unity
+    guid: d7659fac43b0ad64d9b9d4c8be197aeb
+  - enabled: 1
+    path: Assets/Scenes/EBookScene.unity
+    guid: 04ef2abb0a3cb37438de89449b40e975
+  m_configObjects: {}

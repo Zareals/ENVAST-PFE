@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pots the Raccoon
+* source:	https://sketchfab.com/3d-models/pots-the-raccoon-2b3b6a5abe784dfe816fec5bf62542c2
+* author:	Lemon Leon (https://sketchfab.com/lemonleon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pots the Raccoon" (https://sketchfab.com/3d-models/pots-the-raccoon-2b3b6a5abe784dfe816fec5bf62542c2) by Lemon Leon (https://sketchfab.com/lemonleon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

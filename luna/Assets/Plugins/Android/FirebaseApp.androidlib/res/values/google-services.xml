@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://luna-3e352-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">669672506885</string>
+  <string name="google_storage_bucket" translatable="false">luna-3e352.appspot.com</string>
+  <string name="project_id" translatable="false">luna-3e352</string>
+  <string name="google_api_key" translatable="false">AIzaSyCMh4Qd77u9ZXmxYxI2iL7hsevcn97YsZ4</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCMh4Qd77u9ZXmxYxI2iL7hsevcn97YsZ4</string>
+  <string name="google_app_id" translatable="false">1:669672506885:android:b2ee57a00bb653f857be6c</string>
+  <string name="default_web_client_id" translatable="false">669672506885-fmpd2hqcqf0vh8r1qvucft7mnr7oh0iq.apps.googleusercontent.com</string>
+</resources>
